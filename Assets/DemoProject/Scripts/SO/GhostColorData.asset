@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65196bbcd94b84b8d92715f50f0a3667, type: 3}
+  m_Name: GhostColorData
+  m_EditorClassIdentifier: 
+  _colorToRings:
+  - ringColor: 1
+    ghostRingMat: {fileID: 2100000, guid: 63ad0aeba24f4482ab5620f4bac0ea5b, type: 2}
+    mainRingMat: {fileID: 2100000, guid: 58d71336419304567afffc496a759901, type: 2}
+  - ringColor: 2
+    ghostRingMat: {fileID: 2100000, guid: 5b50fd0b64d324d6c8923f8ed51231eb, type: 2}
+    mainRingMat: {fileID: 2100000, guid: 5526c555bcacc4a11bf36cc9af8906a1, type: 2}
+  - ringColor: 3
+    ghostRingMat: {fileID: 2100000, guid: e099978b9196b4469bb9c9f10acf819e, type: 2}
+    mainRingMat: {fileID: 2100000, guid: 28518c91da76544feb1e940ebdf88827, type: 2}
+  - ringColor: 4
+    ghostRingMat: {fileID: 2100000, guid: e6402938e621142c08a982f5a9d67bb0, type: 2}
+    mainRingMat: {fileID: 2100000, guid: 6a40e1434175b4b448c0d2eedb490c68, type: 2}
